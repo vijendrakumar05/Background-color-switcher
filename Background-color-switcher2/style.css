@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 401px;
+    margin: 20px auto;
+    padding: 25px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    background-color: deepskyblue;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.box input{
+    width: 100%;
+    margin:10px 0px ;
+}
+
+.box span{
+    color: #fff;
+}
